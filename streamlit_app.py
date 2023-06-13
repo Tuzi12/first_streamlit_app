@@ -1,9 +1,9 @@
 
 import streamlit as st
-st.title("My parents new healthy dinner")
+st.title("My Parents New Healthy Dinner")
 st.header("Breakfast Menu")
-st.text('Omega 3 & Blueburry Oatmeal')
+st.text('Omega 3 & Blueberry Oatmeal')
 st.text('Kale, Spinach & Rocket Smoothie')
-st.text('Hard-boiled Freerange Egg')
+st.text('Hard-Boiled Free-Range Egg')
 
 
